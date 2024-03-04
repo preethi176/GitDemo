@@ -31,7 +31,7 @@ public class AppiumBasics extends BaseTest{
 		driver.findElements(AppiumBy.className("android.widget.Button")).get(1).click();
 		System.out.println("Checking got demo");
 		System.out.println("Checking git demo working fine?");
-		
+		System.out.println("reated new branch demo");
 		
 		
 		
